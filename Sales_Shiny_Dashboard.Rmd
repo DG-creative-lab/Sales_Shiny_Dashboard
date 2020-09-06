@@ -23,8 +23,8 @@ library(shiny)
 
 # import the data
 
-df<-read_csv("C:/Users/Dessi/Desktop/business/Portfolio/ML/R/Marketing data science/shiny app/Git_Sales_Dashboard/Data/countries_geographic_coordinatesISO.csv")
-country_coord<-read_csv("C:/Users/Dessi/Desktop/business/Portfolio/ML/R/Marketing data science/shiny app/Git_Sales_Dashboard/Data/data.csv")
+df<-read_csv("Data/countries_geographic_coordinatesISO.csv")
+country_coord<-read_csv("Data/data.csv")
 
 #join the 2 tables to get the geographic coordinates of the countries
 
