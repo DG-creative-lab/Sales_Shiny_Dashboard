@@ -195,6 +195,5 @@ time_revenue%>%
 
 ### Analysis
 
-#### This dashboard represents the sales performance of an online retailer. You can find the data set [here](https://www.kaggle.com/carrie1/ecommerce-data).
-The data set contains 541,909 capturing the period between 2010 – 2011.
+#### This dashboard represents the sales performance of an online retailer. You can find the data set [here](https://www.kaggle.com/carrie1/ecommerce-data). The data set contains 541,909 capturing the period between 2010 – 2011.
 

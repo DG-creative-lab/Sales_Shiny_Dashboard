@@ -1,0 +1,12 @@
+name: Sales_Shiny_Dashboard
+title: Sales_Shiny_Dashboard
+username:
+account: dg0485
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2760691
+bundleId: 3598714
+url: https://dg0485.shinyapps.io/Sales_Shiny_Dashboard/
+when: 1599394395.65611
+asMultiple: FALSE
+asStatic: FALSE
